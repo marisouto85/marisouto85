@@ -5,17 +5,18 @@ Hi, my name is Maria, I am from Spain living in Germany. I am a Web developer. I
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marisouto85)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**marisouto85/marisouto85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Maria
+#### Web developer
+Hi, my name is Maria, I am from Spain living in Germany. I am a Web developer. I really enjoying learning new languages and frameworks like JavaScript, React or Bootstrap.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Berlin-Project 
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: maria.souto@dci-student.org 
+
+
+
+
